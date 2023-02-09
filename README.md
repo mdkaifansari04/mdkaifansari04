@@ -1,9 +1,9 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-## السَّلَامُ عَلَيْكُمْ وَرَحْمَةُ ٱللَّهِ وَبَرَكاتُهُ 🙏, I'm Md Kaif Ansari
+## السَّلَامُ عَلَيْكُمْ وَرَحْمَةُ ٱللَّهِ وَبَرَكاتُهُ ,                                       I'm Md Kaif Ansari
 ## Web Developer 👨‍💻
 
-[![](https://img.shields.io/badge/LinkedIn-ashrafkm-blue)](https://www.linkedin.com/in/ashraf-k-m-149a3494/)
+[![](https://img.shields.io/badge/LinkedIn-ashrafkm-blue)](https://www.linkedin.com/in/md-kaif-ansari-b74543243/)
 [![](https://img.shields.io/badge/Gmail-amdkaif843@gmail.com.com-red)](mailto:amdkaif843@gmail.com)
 
 
@@ -24,4 +24,4 @@ const ashraf = {
 ```
 
 ---
-⭐️ From [@ashrafkm](https://github.com/Mdkaif-123)
+⭐️ From [@mdKaif](https://github.com/Mdkaif-123)
