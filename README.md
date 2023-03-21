@@ -6,7 +6,7 @@ My name is `Md Kaif Ansari` I am 2nd year student of Diploma in Computer Enginee
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thekaifansari/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-kaif-ansari-b74543243/?original_referer=)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/MdKaifA43103002?t=aXOEmZkvlNvj7wbvHYJnWg&s=09) 
-[![Twitter](https://img.shields.io/badge/Portfolio-%231D.svg?logo=Profile&logoColor=white)](https://mdkaif.vq.pe/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://mdkaif.vq.pe/)
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
