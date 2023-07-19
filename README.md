@@ -1,10 +1,8 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://mdkaif.vq.pe/)
 
-<h1 align="center"><p align="right" > أسلم عليكم و رحمتلله 😊 </p> I'm Md Kaif Ansari </h1>
+<h1 align="center">Hi 👋, I'm Md Kaif Ansari</h1><br>
 
-## 💫 About Me:      
-
-I am 3rd year student of Diploma in Computer Engineering at Jamia Polytechnic (MH), India. <br>I Know The Art Of Coding And Logic. An Effective Communicator With Excellent Relationship Skills And Strong Analytical, Problem-Solving Approaches. Field Well-Versed In Promoting Object-Oriented Approaches To Real-Time Software Development.<br>
+ A veteran full stack developer with excellent experience in the front end technologies, like Node.js and Express. Proficient in frontend technologies, such as React and Tailwind, which allow the creation of complex UIs while ensuring a smooth operation. Possesses excellent problem-solving skills and effective communication abilities. Provides a diverse portfolio of projects, including realtime communication, CRUD operations, database management, login and sign up functionality, SMTP integration ,GEO location services, and cloudinary integration. Committed to delivering high-quality solutions and continuously expanding knowledge and skills.<br>
 
 
 
