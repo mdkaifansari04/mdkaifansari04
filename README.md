@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Md Kaif Ansari</h1><br>
 
- A veteran full stack developer with excellent experience in the front end technologies, like Node.js and Express. Proficient in frontend technologies, such as React and Tailwind, which allow the creation of complex UIs while ensuring a smooth operation. Possesses excellent problem-solving skills and effective communication abilities. Provides a diverse portfolio of projects, including realtime communication, CRUD operations, database management, login and sign up functionality, SMTP integration ,GEO location services, and cloudinary integration. Committed to delivering high-quality solutions and continuously expanding knowledge and skills.<br>
+ <p>A veteran full stack developer with excellent experience in the front end technologies, like Node.js and Express. Proficient in frontend technologies, such as React and Tailwind, which allow the creation of complex UIs while ensuring a smooth operation. Possesses excellent problem-solving skills and effective communication abilities. Provides a diverse portfolio of projects, including realtime communication, CRUD operations, database management, login and sign up functionality, SMTP integration ,GEO location services, and cloudinary integration. Committed to delivering high-quality solutions and continuously expanding knowledge and skills.<p></p><br>
 
 
 
