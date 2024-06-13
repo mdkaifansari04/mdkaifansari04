@@ -1,10 +1,14 @@
 ![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)
 <h1 align="center">Hi 👋, I'm Md Kaif !</h1><br>
 
- <p>A veteran full stack developer with excellent experience in the back end technologies, like Node.js and Express. Proficient in frontend technologies, such as React and Tailwind, which allow the creation of complex UIs while ensuring a smooth operation. Possesses excellent problem-solving skills and effective communication abilities. Provides a diverse portfolio of projects, including realtime communication, CRUD operations, database management, login and sign up functionality, SMTP integration ,GEO location services, and cloudinary integration. Committed to delivering high-quality solutions and continuously expanding knowledge and experince  <p></p><br>
+ <p>A veteran full stack developer with excellent experience in the back end technologies, like Node.js and Express. Proficient in frontend technologies, such as React and Tailwind, which allow the creation of complex UIs while ensuring a smooth operation. Possesses excellent problem-solving skills and effective communication abilities. Provides a diverse portfolio of projects, including realtime communication, CRUD operations, database management, login and sign up functionality, SMTP integration ,GEO location services, and cloudinary integration. Committed to delivering high-quality solutions and continuously expanding knowledge and experince  <p></p><be>
 
+<!--Profile views tag [![](https://visitcount.itsvg.in/api?id=mdkaifansari04&icon=0&color=0)](https://visitcount.itsvg.in) -->
 
-[![](https://visitcount.itsvg.in/api?id=mdkaifansari04&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/apu52/count.svg" />
+</p>
 
 ## 🌐 Socials:
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://mdkaifansari.vercel.app/)
@@ -13,6 +17,11 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/MdKaifA43103002?t=aXOEmZkvlNvj7wbvHYJnWg&s=09) 
 
 ## 💻 Tech Stack:
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="100"/>
+</div>
+
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
@@ -36,12 +45,20 @@
 
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mdkaifansari04&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=mdkaifansari04&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)&nbsp;&nbsp;&nbsp;
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mdkaifansari04&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mdkaifansari04&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdkaifansari04&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+<img width="700" src="https://github-profile-trophy.vercel.app/?username=mdkaifansari04&theme=tokyonight&column=5" /> 
+
+<div align="center">
+  <img  width="1200" src="https://github-readme-activity-graph.vercel.app/graph?username=mdkaifansari04&theme=synthwave-84&true&hide_border=true" />
+</div>
+
+
 
 ## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mdkaifansari04&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+![](https://github-contributor-stats.vercel.app/api?username=mdkaifansari04&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ⭐️ From [@mdKaif](https://github.com/mdkaifansari04)
