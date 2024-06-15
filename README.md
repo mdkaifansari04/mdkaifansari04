@@ -3,12 +3,12 @@
 
  <p>A veteran full stack developer with excellent experience in the back end technologies, like Node.js and Express. Proficient in frontend technologies, such as React and Tailwind, which allow the creation of complex UIs while ensuring a smooth operation. Possesses excellent problem-solving skills and effective communication abilities. Provides a diverse portfolio of projects, including realtime communication, CRUD operations, database management, login and sign up functionality, SMTP integration ,GEO location services, and cloudinary integration. Committed to delivering high-quality solutions and continuously expanding knowledge and experince  <p></p><be>
 
-<!--Profile views tag [![](https://visitcount.itsvg.in/api?id=mdkaifansari04&icon=0&color=0)](https://visitcount.itsvg.in) -->
+  Profile views tag [![](https://visitcount.itsvg.in/api?id=mdkaifansari04&icon=0&color=0)](https://visitcount.itsvg.in) 
 
-<p align="center"> 
+<!-- <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/mdkaifansari04/count.svg" />
-</p>
+</p> -->
 
 ## 🌐 Socials:
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://mdkaifansari.vercel.app/)
