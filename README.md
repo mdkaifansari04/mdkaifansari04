@@ -91,14 +91,13 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <br>
-<details>
-  <summary>
-    <h2>
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="25" height="25" />  
-      GitHub Stats
-    </h2>
-  </summary>
+<br>
+<br>
 
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="25" height="25" /> GitHub Stats
+
+<details>
+  <summary>View</summary>
   <p align="center">
     <a href="https://quira.sh?utm_source=widgets&utm_campaign=kom-senapati">
       <img src="https://stats.quira.sh/kom-senapati/github?theme=dark" alt="kom-senapati's GitHub | Stats" />
@@ -125,35 +124,37 @@
   </table>
 </details>
 
+<br>
+
+#  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Man%20Dancing.webp" alt="Man Dancing" width="25" height="25" />  Holopin Badges
+
 <details>
-    <summary>
-    <h2>
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Man%20Dancing.webp" alt="Man Dancing" width="25" height="25" /> 
-      Holopin Badges
-    </h2>
-  </summary>
-  
+    <summary>View</summary>
   <div align="center">
     <img src="https://holopin.me/kom" width="500"/>
   </div>
 </details>
 
+<br>
+<br>
+
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Cat.webp" alt="Cat" width="25" height="25" /> Octocat
+
 <details>
-    <summary>
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Cat.webp" alt="Cat" width="25" height="25" />
-          <h2>Octocat</h2>
-    </summary>
+    <summary>View</summary>
     <div align="center">
       <img alt="octocat" src="https://github.com/user-attachments/assets/a57b04f8-ed06-47f1-8612-b659c153302e" width="300" />
       <p>Get your Octocat at: <a href="https://myoctocat.com/">myoctocat.com</a></p>
     </div>
 </details>
 
+<br>
+<br>
+
+# 🔝 Top Contributed Repo
 
 <details>
-    <summary>
-          <h2>🔝 Top Contributed Repo</h2>
-    </summary>
+    <summary>View</summary>
 
 ![](https://github-contributor-stats.vercel.app/api?username=mdkaifansari04&limit=5&theme=dark&combine_all_yearly_contributions=true)
 </details>
