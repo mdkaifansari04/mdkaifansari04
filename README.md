@@ -1,3 +1,7 @@
+
+#MY
+
+
 ![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)
 <h1 align="center">Hi 👋, I'm Md Kaif !</h1><br>
 
@@ -105,24 +109,42 @@ Hackathons? Count me in! I thrive in the fast-paced, high-energy environment whe
     </a>
   </div>
   
+
   <table>
-    <tr>
-      <th>Languages Over Time</th>
-      <th>Topics Over Time</th>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://quira.sh?utm_source=widgets&utm_campaign=mdkaifansari04">
-          <img src="https://stats.quira.sh/mdkaifansari04/languages-over-time?theme=dark" alt="mdkaifansari04's GitHub | Languages Over Time" />
-        </a>
-      </td>
-      <td>
-        <a href="https://quira.sh?utm_source=widgets&utm_campaign=mdkaifansari04">
-          <img src="https://stats.quira.sh/mdkaifansari04/topics-over-time?theme=dark" alt="mdkaifansari04's GitHub | Topics Over Time" />
-        </a>
-      </td>
-    </tr>
-  </table>
+  <tr>
+    <th>Languages Over Time</th>
+    <th>Topics Over Time</th>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://quira.sh?utm_source=widgets&utm_campaign=mdkaifansari04">
+        <img src="https://stats.quira.sh/mdkaifansari04/languages-over-time?theme=dark" 
+             alt="mdkaifansari04's GitHub | Languages Over Time" />
+      </a>
+    </td>
+    <td>
+      <a href="https://quira.sh?utm_source=widgets&utm_campaign=mdkaifansari04">
+        <img src="https://stats.quira.sh/mdkaifansari04/topics-over-time?theme=dark" 
+             alt="mdkaifansari04's GitHub | Topics Over Time" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <th>Stats</th>
+    <th>Streak</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=mdkaifansari04&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" 
+           alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdkaifansari04&theme=tokyonight&hide_border=false" 
+           alt="GitHub Streak Stats" />
+    </td>
+  </tr>
+</table>
+
 </details>
 
 <br>
@@ -152,6 +174,7 @@ Hackathons? Count me in! I thrive in the fast-paced, high-energy environment whe
 
 <details>
     <summary>View</summary>
+
 ![](https://github-contributor-stats.vercel.app/api?username=mdkaifansari04&limit=5&theme=dark&combine_all_yearly_contributions=true)
 </details>
 
