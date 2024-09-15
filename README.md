@@ -93,10 +93,10 @@
 <br>
 <details>
   <summary>
-    <h1>
+    <h2>
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="25" height="25" />  
       GitHub Stats
-    </h1>
+    </h2>
   </summary>
 
   <p align="center">
@@ -127,10 +127,10 @@
 
 <details>
     <summary>
-    <h1>
+    <h2>
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Man%20Dancing.webp" alt="Man Dancing" width="25" height="25" /> 
       Holopin Badges
-    </h1>
+    </h2>
   </summary>
   
   <div align="center">
@@ -141,7 +141,7 @@
 <details>
     <summary>
           <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Cat.webp" alt="Cat" width="25" height="25" />
-          <h1>Octocat</h1>
+          <h2>Octocat</h2>
     </summary>
     <div align="center">
       <img alt="octocat" src="https://github.com/user-attachments/assets/a57b04f8-ed06-47f1-8612-b659c153302e" width="300" />
@@ -152,7 +152,7 @@
 
 <details>
     <summary>
-          <h1>🔝 Top Contributed Repo</h1>
+          <h2>🔝 Top Contributed Repo</h2>
     </summary>
 
 ![](https://github-contributor-stats.vercel.app/api?username=mdkaifansari04&limit=5&theme=dark&combine_all_yearly_contributions=true)
