@@ -14,7 +14,8 @@
 </p> -->
 
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Mirror%20Ball.webp" alt="Mirror Ball" width="25" height="25" /> Socials:
+# <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" />Socials
+
 <div align="center">
   <br>
   <a href="https://x.com/kom_senapati">
@@ -90,14 +91,12 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <br>
-
-
 <details>
   <summary>
-    <h2>
+    <h1>
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="25" height="25" />  
-      GitHub Stats:
-    </h2>
+      GitHub Stats
+    </h1>
   </summary>
 
   <p align="center">
@@ -128,10 +127,10 @@
 
 <details>
     <summary>
-    <h2>
+    <h1>
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Man%20Dancing.webp" alt="Man Dancing" width="25" height="25" /> 
-      Holopin Badges:
-    </h2>
+      Holopin Badges
+    </h1>
   </summary>
   
   <div align="center">
@@ -142,7 +141,7 @@
 <details>
     <summary>
           <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Cat.webp" alt="Cat" width="25" height="25" />
-          Octocat:
+          <h1>Octocat</h1>
     </summary>
     <div align="center">
       <img alt="octocat" src="https://github.com/user-attachments/assets/a57b04f8-ed06-47f1-8612-b659c153302e" width="300" />
@@ -151,8 +150,16 @@
 </details>
 
 
-## 🔝 Top Contributed Repo
+<details>
+    <summary>
+          <h1>🔝 Top Contributed Repo</h1>
+    </summary>
 
 ![](https://github-contributor-stats.vercel.app/api?username=mdkaifansari04&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</details>
+
+## 
+
+
 
 ⭐️ From [@mdKaif](https://github.com/mdkaifansari04)
