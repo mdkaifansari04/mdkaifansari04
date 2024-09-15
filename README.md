@@ -171,7 +171,9 @@ Hackathons? Count me in! I thrive in the fast-paced, high-energy environment whe
 <details>
     <summary>View</summary>
   <div align="center">
-    <img src="https://holopin.me/kom" width="500"/>
+   
+[![An image of @mdkaif123's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mdkaif123)](https://holopin.io/@mdkaif123)
+
   </div>
 </details>
 
