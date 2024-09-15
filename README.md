@@ -143,7 +143,22 @@ Hackathons? Count me in! I thrive in the fast-paced, high-energy environment whe
            alt="GitHub Streak Stats" />
     </td>
   </tr>
+  <tr>
+    <th>Laguages</th>
+    <th>Awards</th>
+  </tr>
+  <tr>
+    <td>
+     <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdkaifansari04&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+    </td>
+    <td>
+     <img width="700" src="https://github-profile-trophy.vercel.app/?username=mdkaifansari04&theme=tokyonight&column=5" /> 
+    </td>
+  </tr>
 </table>
+<div align="center">
+  <img  width="1200" src="https://github-readme-activity-graph.vercel.app/graph?username=mdkaifansari04&theme=synthwave-84&true&hide_border=true" />
+</div>
 
 </details>
 
