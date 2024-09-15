@@ -25,40 +25,37 @@ Hackathons? Count me in! I thrive in the fast-paced, high-energy environment whe
 
 <div align="center">
   <br>
-  <a href="https://x.com/kom_senapati">
+  <a href="https://x.com/MdKaifA16697201">
     <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/mdkaifansari04/">
+  <a href="https://www.linkedin.com/in/md-kaif-ansari/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <br>
 
-  <a href="https://t.me/kom_senapati">
+  <a href="https://t.me/kaifansari">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://wa.me/8249452708">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-  <a href="mailto:komnoob123@gmail.com">
+  <a href="mailto:amdkaif843@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <br>
   
-  <a href="https://app.daily.dev/komsenapati">
+  <a href="https://app.daily.dev/mdkaifansari04">
     <img src="https://img.shields.io/badge/dailydotdev-0A0209?style=for-the-badge&logo=daily.dev&logoColor=white" />
   </a>
   <a href="https://oss.fyi/mdkaifansari04">
     <img src="https://img.shields.io/badge/OpenSauced-F06837?style=for-the-badge&logo=open-sauced&logoColor=white" />
   </a>
-  <a href="https://discordapp.com/users/800578362082459719">
+  <a href="https://discordapp.com/users/974519864045756446">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/u/mdkaifansari04/">
+  <a href="https://leetcode.com/u/mdkaifAnsari/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
   <br>
 
-  <a href="https://www.hackerrank.com/profile/komnoob123">
+  <a href="https://www.hackerrank.com/profile/amdkaif843">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
   <a href="https://www.geeksforgeeks.org/user/komnoob123/">
@@ -178,8 +175,8 @@ Hackathons? Count me in! I thrive in the fast-paced, high-energy environment whe
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Cat.webp" alt="Cat" width="25" height="25" /> Octocat
 
  <div align="center">
-      <img alt="octocat" src="https://github.com/user-attachments/assets/a57b04f8-ed06-47f1-8612-b659c153302e" width="300" />
-      <p>Get your Octocat at: <a href="https://myoctocat.com/">myoctocat.com</a></p>
+      <img alt="octocat" src="https://res.cloudinary.com/dngfmzv2g/image/upload/v1726430379/My_Octocat_waac70.png" width="500" />
+      <p>Caught Up in the Matrix</p>
  </div>
  
 <br>
