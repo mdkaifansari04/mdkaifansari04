@@ -24,6 +24,9 @@ Hackathons? Count me in! I thrive in the fast-paced, high-energy environment whe
 # <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" />Socials
 
 <div align="center">
+<a href="https://mdkaifansari.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=k&logoColor=white" />
+</a>
   <br>
   <a href="https://x.com/MdKaifA16697201">
     <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" />
@@ -58,13 +61,13 @@ Hackathons? Count me in! I thrive in the fast-paced, high-energy environment whe
   <a href="https://www.hackerrank.com/profile/amdkaif843">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
-  <a href="https://www.geeksforgeeks.org/user/komnoob123/">
+  <a href="https://www.geeksforgeeks.org/user/amdkai6l8q">
     <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
-  <a href="https://peerlist.io/kom_senapati">
+  <a href="https://peerlist.io/mdkaifansari04">
     <img src="https://img.shields.io/badge/Peerlist-0A0209?style=for-the-badge&logo=peerlist&logoColor=white" />
   </a>
-  <a href="https://dev.to/komsenapati">
+  <a href="https://dev.to/mdkaifansari04">
     <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
   </a>
   <a href="https://hashnode.com/@mdkaifansari04">
