@@ -174,6 +174,8 @@ Hackathons? Oh yeah, that’s my jam! 🚀 I thrive in fast-paced environments w
 <details>
     <summary>View</summary>
   <div align="center">
+
+[![Hacktoberfest '24 Contributor](https://badges.layer5.io/assets/badges/hacktoberfest-contributor-2024/layer5-hacktoberfest-badge-2024.png)](https://meshery.layer5.io/user/3b6eee8d-07f5-4e6e-a74b-e6ce9bd2f6e2?tab=badges&badge=hacktoberfest-24-contributor)
    
 [![An image of @mdkaif123's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mdkaif123)](https://holopin.io/@mdkaif123)
 
