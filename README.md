@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Md Kaif !</h1><br>
 
  <p>
-I'm Kaif, a full-stack developer who loves creating, building, and sometimes breaking things (just to make them better, of course). My playground? The MERN stack. Right now, I’m flexing my full-stack skills at an awesome Australian startup. 🌏💻
+I'm a full-stack developer who loves creating, building, and sometimes breaking things (just to make them better, of course). My playground? The MERN stack. Right now, I’m flexing my full-stack skills at an awesome Australian startup. 🌏💻
 
 When I'm not deep in code, you can find me diving into the open-source world 🌐, contributing to projects that actually matter. I’m also a huge fan of Python and AI 🤖—it’s like solving brain-busting puzzles with code, and I’m *here* for that challenge.
 
