@@ -108,64 +108,41 @@ Hackathons? Oh yeah, that’s my jam! 🚀 I thrive in fast-paced environments w
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="25" height="25" /> GitHub Stats
 
-  <div align="center">
-    <a href="https://quira.sh?utm_source=widgets&utm_campaign=mdkaifansari04">
-      <img src="https://stats.quira.sh/mdkaifansari04/github?theme=dark" alt="Kaifs's GitHub | Stats" />
-    </a>
-  </div>
-  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mdkaifansari04&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+</div>
 
-  <table>
+<table>
   <tr>
-    <th>Languages Over Time</th>
-    <th>Topics Over Time</th>
+    <th>Languages (Overall)</th>
+    <th>Contribution Streak</th>
   </tr>
   <tr>
     <td>
-      <a href="https://quira.sh?utm_source=widgets&utm_campaign=mdkaifansari04">
-        <img src="https://stats.quira.sh/mdkaifansari04/languages-over-time?theme=dark" 
-             alt="mdkaifansari04's GitHub | Languages Over Time" />
-      </a>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdkaifansari04&layout=compact&theme=tokyonight&langs_count=8" />
     </td>
     <td>
-      <a href="https://quira.sh?utm_source=widgets&utm_campaign=mdkaifansari04">
-        <img src="https://stats.quira.sh/mdkaifansari04/topics-over-time?theme=dark" 
-             alt="mdkaifansari04's GitHub | Topics Over Time" />
-      </a>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdkaifansari04&theme=tokyonight" />
     </td>
   </tr>
+
   <tr>
-    <th>Stats</th>
-    <th>Streak</th>
+    <th>Contribution Activity</th>
+    <th>Trophies</th>
   </tr>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=mdkaifansari04&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" 
-           alt="GitHub Stats" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mdkaifansari04&theme=tokyonight&utcOffset=5.5" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdkaifansari04&theme=tokyonight&hide_border=false" 
-           alt="GitHub Streak Stats" />
-    </td>
-  </tr>
-  <tr>
-    <th>Laguages</th>
-    <th>Awards</th>
-  </tr>
-  <tr>
-    <td>
-     <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdkaifansari04&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-    </td>
-    <td>
-     <img width="700" src="https://github-profile-trophy.vercel.app/?username=mdkaifansari04&theme=tokyonight&column=5" /> 
+      <img src="https://github-profile-trophy.vercel.app/?username=mdkaifansari04&theme=tokyonight&column=5&margin-w=10" />
     </td>
   </tr>
 </table>
-<div align="center">
-  <img  width="1200" src="https://github-readme-activity-graph.vercel.app/graph?username=mdkaifansari04&theme=synthwave-84&true&hide_border=true" />
-</div>
 
-</details>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdkaifansari04&theme=tokyo-night&hide_border=true" />
+</div>
 
 <br>
 
