@@ -28,7 +28,7 @@ Hackathons? Oh yeah, that’s my jam! 🚀 I thrive in fast-paced environments w
     <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=k&logoColor=white" />
 </a>
   <br>
-  <a href="https://x.com/MdKaifA16697201">
+  <a href="https://x.com/mdkaifansari04">
     <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/md-kaif-ansari/">
